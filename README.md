@@ -1,1 +1,1 @@
-# ML-Classification-Customer-Churn-Prediction
+# ML Classification - Customer Churn Prediction
